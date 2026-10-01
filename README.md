@@ -1,6 +1,6 @@
-# HookLab
+# HookLab — Inspector local de webhooks
 
-Inspector local de webhooks hecho con FastAPI. Recibe requests HTTP, las guarda en SQLite y permite revisarlas desde una interfaz web simple.
+Recibe requests HTTP, las guarda en SQLite y permite revisar headers, parámetros y contenido desde una interfaz web simple.
 
 ## Uso
 
